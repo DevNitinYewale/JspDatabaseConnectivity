@@ -33,7 +33,7 @@ a {
 			<input type="submit" value="Insert"> 
 
 			<button>
-				<a href="Update.jsp">Update</a>
+				<a href="Update.html">Update</a>
 			</button>
 			<button>
 				<a href="Display.jsp">Display</a>

@@ -36,5 +36,7 @@
 		out.println("error:" + e);
 	}
 	%>
+	<br></br>
+	<button style="text-decoration: none; color:black;"><a href="StudentLogin.jsp">Home</a></button>&nbsp;&nbsp;
 </body>
 </html>
